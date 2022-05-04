@@ -1,0 +1,12 @@
+.container{
+	font-family: monotxt;
+	font-weight: bolder;
+	width:340px;
+	padding:10px 10px 10px 10px;
+	color:white;
+	font-size:15px;
+	text-align: center;
+	position: fixed;
+	right:2rem;
+	bottom:1rem;
+}
